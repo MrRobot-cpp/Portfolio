@@ -86,3 +86,17 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.social-networks{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    color: aliceblue;
+    justify-content: center;
+    display: inline-flex;
+    align-items: center;
+}
+
+.social-networks a{
+    margin: 5px;
+    color: aliceblue;
+}
